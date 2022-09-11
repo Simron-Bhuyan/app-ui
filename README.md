@@ -1,9 +1,9 @@
 # app-ui
   
-#Opearting System used : Windows 10 
-#Reactjs version : 18.2.0
-#Typescript version : 4.8.3
-#npm version : 8.1.0
+###`Opearting System used : Windows 10 `
+#`Reactjs version : 18.2.0 `
+#`Typescript version : 4.8.3 `
+#`npm version : 8.1.0 `
 
 # Getting Started with Create React App
 
@@ -20,7 +20,7 @@ Installs the required node modules for both server side and client side .
 
 It will start or initate the server 
 
-### `npm react`
+### `npm run react`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
