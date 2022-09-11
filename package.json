@@ -1,0 +1,23 @@
+{
+  "name": "app-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js",
+    "react":"cd app-ui && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simron-Bhuyan/app-ui.git"
+  },
+  "author": "Simron-Bhuyan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Simron-Bhuyan/app-ui/issues"
+  },
+  "homepage": "https://github.com/Simron-Bhuyan/app-ui#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
