@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start":"node app.js",
+    "react":"cd app-ui && npm start"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Simron-Bhuyan/app-ui/issues"
   },
-  "homepage": "https://github.com/Simron-Bhuyan/app-ui#readme"
+  "homepage": "https://github.com/Simron-Bhuyan/app-ui#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
