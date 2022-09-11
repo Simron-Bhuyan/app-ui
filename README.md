@@ -1,9 +1,9 @@
 # app-ui
   
-###`Opearting System used : Windows 10 `<br/>
-#`Reactjs version : 18.2.0 `<br/>
-#`Typescript version : 4.8.3 `<br/>
-#`npm version : 8.1.0 `<br/>
+`Opearting System used : Windows 10 `<br/>
+`Reactjs version : 18.2.0 `<br/>
+`Typescript version : 4.8.3 `<br/>
+`npm version : 8.1.0 `<br/>
 
 # Getting Started with Create React App
 
