@@ -5,7 +5,7 @@
 `Typescript version : 4.8.3 `<br/>
 `npm version : 8.1.0 `<br/>
 
-# Getting Started with Create React App
+# Getting Started with the App-Ui
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
