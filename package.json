@@ -4,8 +4,9 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "dev":"npm i && cd app-ui && npm i ",
     "start":"node app.js",
-    "react":"cd app-ui && npm start"
+    "react":"cd app-ui && npm start"    
   },
   "repository": {
     "type": "git",
